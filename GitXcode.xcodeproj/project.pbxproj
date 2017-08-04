@@ -12,6 +12,7 @@
 		734BD6561F349E8C0093512B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 734BD6541F349E8C0093512B /* Main.storyboard */; };
 		734BD6581F349E8C0093512B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 734BD6571F349E8C0093512B /* Assets.xcassets */; };
 		734BD65B1F349E8C0093512B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 734BD6591F349E8C0093512B /* LaunchScreen.storyboard */; };
+		734BD6631F34A38E0093512B /* MyMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734BD6621F34A38E0093512B /* MyMapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		734BD6571F349E8C0093512B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		734BD65A1F349E8C0093512B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		734BD65C1F349E8C0093512B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		734BD6621F34A38E0093512B /* MyMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				734BD6501F349E8C0093512B /* AppDelegate.swift */,
 				734BD6521F349E8C0093512B /* ViewController.swift */,
 				734BD6541F349E8C0093512B /* Main.storyboard */,
+				734BD6621F34A38E0093512B /* MyMapView.swift */,
 				734BD6571F349E8C0093512B /* Assets.xcassets */,
 				734BD6591F349E8C0093512B /* LaunchScreen.storyboard */,
 				734BD65C1F349E8C0093512B /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				734BD6531F349E8C0093512B /* ViewController.swift in Sources */,
 				734BD6511F349E8C0093512B /* AppDelegate.swift in Sources */,
+				734BD6631F34A38E0093512B /* MyMapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
